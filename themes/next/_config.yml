@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "痕迹"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -212,11 +212,11 @@ sidebar:
 
 
 # Blog rolls
-links_title: Links
+links_title: 精彩链接
 #links_layout: block
 #links_layout: inline
 links:
-  Title: http://example.com/
+  雪雪: http://www.zhaoyongquan.com/about/
 
 
 # ---------------------------------------------------------------
