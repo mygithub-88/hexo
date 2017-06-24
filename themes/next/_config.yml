@@ -110,13 +110,11 @@ font:
   headings:
     external: true
     family: Roboto Slab
-
   # Font settings for posts
   # Fallback to `global` font settings.
   posts:
     external: true
     family:
-
   # Font settings for Logo
   # Fallback to `global` font settings.
   # The `size` option use `px` as unit
