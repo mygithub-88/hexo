@@ -96,6 +96,10 @@
               {% if theme.post_meta.item_text %}
                 <span class="post-meta-item-text">{{ __('post.in') }}</span>
               {% endif %}
+			  
+			 
+			  
+			  
               {% for cat in post.categories %}
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
                   <a href="{{ url_for(cat.path) }}" itemprop="url" rel="index">
@@ -244,7 +248,7 @@
                   {{ post.description }}
               </div>
           {% endif %}
-
+		  
         </div>
       </header>
     {% endif %}

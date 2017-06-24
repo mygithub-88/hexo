@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hex
-subtitle:
-description:
-author: author
-language: zh-Hans
+title: 痕迹
+subtitle: 格物致知，知行合一
+description: 人生百年三更梦，万里江山一局棋
+author: MrZhao
 timezone:
+language: zh-Hans
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -47,6 +47,12 @@ highlight:
 default_category: uncategorized
 category_map:
 tag_map:
+
+# add post views
+leancloud_visitors:
+  enable: true
+  app_id: d0CcxUPS8XoAyyAPbPnQ8B21-gzGzoHsz
+  app_key: 2xlj2yvSzi15XlAlTxVUHmQs
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
