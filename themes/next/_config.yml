@@ -214,7 +214,7 @@ links_title: 精彩链接
 #links_layout: block
 #links_layout: inline
 links:
-  雪雪: http://www.zhaoyongquan.com/about/
+  雪: http://www.zhaoyongquan.com/about/
 
 
 # ---------------------------------------------------------------
@@ -495,9 +495,9 @@ exturl: false
 
 
 #打上功能
-reward_comment: 0.3，交个朋友可好？
-wechatpay: http://i2.kiimg.com/1949/66e4d8e6ca3a716bs.jpg
-alipay: http://i2.kiimg.com/1949/9232d18d6869ebe3s.jpg
+reward_comment: 随意打赏，交个朋友可好？
+wechatpay: http://i2.kiimg.com/598616/4754b458782f17f1.jpg
+alipay: http://i2.kiimg.com/598616/8c4b9be3002ec5f6.jpg
 #! ---------------------------------------------------------------
 #! DO NOT EDIT THE FOLLOWING SETTINGS
 #! UNLESS YOU KNOW WHAT YOU ARE DOING
